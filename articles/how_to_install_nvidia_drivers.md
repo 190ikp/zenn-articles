@@ -8,6 +8,9 @@ published: true
 
 ＊これは[KCS AdventCalendar2020](https://adventar.org/calendars/5690) 8日目の記事です＊
 
+[←6日目](https://kcs1959.jp/archives/5941/general/物理情報工学科の紹介) | [9日目→]()
+
+---
 ## はじめに
 
 NVIDIAのGPUを使用する際，トラブルに見舞われる方の多くはドライバのインストールでコケていらっしゃると思います．\

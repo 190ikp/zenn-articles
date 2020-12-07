@@ -178,7 +178,7 @@ nvidia-driver-455/unknown,unknown 455.45.01-0ubuntu1 amd64
 なお，このパッケージには管理用のユーティリティも含まれません．
 `nvidia-smi`等が必要な場合は`nvidia-utils-<version>` (`nvidia-utils-<version>-server`)をインストールしてください．
 
-また，`headless`にはOpenGlやVulkan等の主要なグラフィックスライブラリも含まれません．\
+また，`headless`にはOpenGLやVulkan等の主要なグラフィックスライブラリも含まれません．\
 レンダリングファーム等で使用する場合は前項の`nvidia-driver`か`cuda-drivers`をインストールされることをおすすめします．
 
 ## まとめ

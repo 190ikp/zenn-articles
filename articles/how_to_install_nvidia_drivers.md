@@ -8,9 +8,7 @@ published: true
 
 ＊これは[KCS AdventCalendar2020](https://adventar.org/calendars/5690) 8日目の記事です＊
 
-7日目が欠番なので6日目へのリンクを貼っておきます
-
-[←6日目](https://kcs1959.jp/archives/5941/general/物理情報工学科の紹介) | [9日目→](https://kcs1959.jp/archives/6064/general/p5-js大好き-楽だから)
+[←7日目](https://kcs1959.jp/archives/6077/general/実際にサントラを作曲してみた) | [9日目→](https://kcs1959.jp/archives/6064/general/p5-js大好き-楽だから)
 
 ---
 ## はじめに
@@ -193,4 +191,4 @@ nvidia-driver-455/unknown,unknown 455.45.01-0ubuntu1 amd64
 
 ---
 
-[←6日目](https://kcs1959.jp/archives/5941/general/物理情報工学科の紹介) | [9日目→](https://kcs1959.jp/archives/6064/general/p5-js大好き-楽だから)
+[←7日目](https://kcs1959.jp/archives/6077/general/実際にサントラを作曲してみた) | [9日目→](https://kcs1959.jp/archives/6064/general/p5-js大好き-楽だから)

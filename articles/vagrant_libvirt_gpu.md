@@ -10,7 +10,7 @@ published: true
 
 12日目が欠番なので11日目へのリンクを貼っておきます
 
-[←11日目](https://kcs1959.jp/archives/6108/general/atcoder-longest-streak-300日達成) | [14日目→]()
+[←11日目](https://kcs1959.jp/archives/6108/general/atcoder-longest-streak-300日達成) | [14日目→](https://kcs1959.jp/archives/6125/general/今年買ったものとか)
 
 ---
 ## これはなに
@@ -271,4 +271,4 @@ GPUが仮想マシン上で動いていることを検知すると，プロプ�
 
 ---
 
-[←11日目](https://kcs1959.jp/archives/6108/general/atcoder-longest-streak-300日達成) | [14日目→]()
+[←11日目](https://kcs1959.jp/archives/6108/general/atcoder-longest-streak-300日達成) | [14日目→](https://kcs1959.jp/archives/6125/general/今年買ったものとか)
